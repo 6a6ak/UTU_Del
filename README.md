@@ -22,6 +22,14 @@ This is a simple Bash script named `del` that moves any file or folder to the Ub
 2. Make it executable: `chmod +x del.sh`.
 3. Optionally, move it to a directory in your `PATH`, e.g., `sudo mv del.sh /usr/local/bin/del`.
 
+## Install by Debian file 
+
+Download the .deb package and install it using the following command:
+
+```
+sudo dpkg -i del-package.deb
+
+```
 ## Usage
 
 To delete a file, navigate to its folder in the terminal and use the `del` command:
