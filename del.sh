@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # ANSI escape codes for colored output
 RED_BG="\033[41m"
 BLACK_TEXT="\033[30m"
